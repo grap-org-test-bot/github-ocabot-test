@@ -6,7 +6,7 @@
     "name": "Module Test 2",
     "version": "12.0.1.0.0",
     "category": "Demo",
-    "summary": "Module Test for ocabot",
+    "summary": "Module Test for ocabot 2",
     "author": "GRAP",
     "website": "http://www.grap.coop",
     "license": "AGPL-3",
