@@ -7,6 +7,7 @@
     "version": "12.0.1.1.0",
     "category": "Demo",
     "summary": "Module Test for ocabot 7",
+    "maintainers": ["legalsylvain", "quentinDupont"],
     "author": "GRAP",
     "website": "http://www.grap.coop",
     "license": "AGPL-3",
