@@ -3,10 +3,10 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    "name": "Module Test 4",
+    "name": "Module Test 5",
     "version": "12.0.1.1.0",
     "category": "Demo",
-    "summary": "Module Test for ocabot 4",
+    "summary": "Module Test for ocabot 5",
     "author": "GRAP",
     "website": "http://www.grap.coop",
     "license": "AGPL-3",
