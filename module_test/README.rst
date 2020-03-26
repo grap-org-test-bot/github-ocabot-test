@@ -1,5 +1,5 @@
 =============
-Module Test 6
+Module Test 7
 =============
 
 .. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -63,6 +63,17 @@ The development of this module has been financially supported by:
 
 Maintainers
 ~~~~~~~~~~~
+
+.. |maintainer-legalsylvain| image:: https://github.com/legalsylvain.png?size=40px
+    :target: https://github.com/legalsylvain
+    :alt: legalsylvain
+.. |maintainer-quentinDupont| image:: https://github.com/quentinDupont.png?size=40px
+    :target: https://github.com/quentinDupont
+    :alt: quentinDupont
+
+Current maintainers:
+
+|maintainer-legalsylvain| |maintainer-quentinDupont| 
 
 This module is part of the `grap/github-ocabot-test <https://github.com/grap/github-ocabot-test/tree/12.0/module_test>`_ project on GitHub.
 
