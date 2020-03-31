@@ -4,7 +4,7 @@
 
 {
     "name": "Module Test 9",
-    "version": "12.0.1.1.1",
+    "version": "12.0.1.2.0",
     "category": "Demo",
     "summary": "Module Test for ocabot 8",
     "maintainers": ["legalsylvain", "quentinDupont"],
