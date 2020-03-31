@@ -3,7 +3,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    "name": "Module Test 8",
+    "name": "Module Test 9",
     "version": "12.0.1.1.1",
     "category": "Demo",
     "summary": "Module Test for ocabot 8",
