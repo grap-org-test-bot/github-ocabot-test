@@ -9,8 +9,8 @@
 
 Available addons
 ----------------
-addon | version | summary
---- | --- | ---
-[module_test](module_test/) | 12.0.3.0.3 | Module Test for ocabot 8
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[module_test](module_test/) | 12.0.3.0.3 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) [![quentinDupont](https://github.com/quentinDupont.png?size=30px)](https://github.com/quentinDupont) | Module Test for ocabot 9
 
 [//]: # (end addons)
