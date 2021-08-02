@@ -6,7 +6,7 @@
     "name": "Module Test Test 42 ZZZ",
     "version": "12.0.3.0.3",
     "category": "Demo",
-    "summary": "Module Test for ocabot 8",
+    "summary": "Module Test for ocabot 9",
     "maintainers": ["legalsylvain", "quentinDupont"],
     "author": "GRAP",
     "website": "http://www.grap.coop",
