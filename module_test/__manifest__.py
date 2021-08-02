@@ -11,7 +11,7 @@
     "author": "GRAP",
     "website": "http://www.grap.coop",
     "license": "AGPL-3",
-    "depends": ["base"],
+    "depends": ["base", "product"],
     "data": [],
     "installable": True,
 }
