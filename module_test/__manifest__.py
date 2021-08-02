@@ -4,7 +4,7 @@
 
 {
     "name": "Module Test Test 42 ZZZ",
-    "version": "12.0.3.0.1",
+    "version": "12.0.3.0.2",
     "category": "Demo",
     "summary": "Module Test for ocabot 8",
     "maintainers": ["legalsylvain", "quentinDupont"],
