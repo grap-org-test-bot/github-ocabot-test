@@ -11,6 +11,6 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[module_test](module_test/) | 12.0.3.0.2 | Module Test for ocabot 8
+[module_test](module_test/) | 12.0.3.0.3 | Module Test for ocabot 8
 
 [//]: # (end addons)
