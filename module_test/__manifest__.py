@@ -13,5 +13,6 @@
     "license": "AGPL-3",
     "depends": ["base", "product"],
     "data": [],
+    "demo": ["demo/account_tax.xml"],
     "installable": True,
 }
