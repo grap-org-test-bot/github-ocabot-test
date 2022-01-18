@@ -9,7 +9,7 @@
     "summary": "Module Test for ocabot 9",
     "maintainers": ["legalsylvain", "quentinDupont"],
     "author": "GRAP",
-    "website": "http://www.grap.coop",
+    "website": "https://github.com/grap/github-ocabot-test",
     "license": "AGPL-3",
     "depends": ["base", "product"],
     "data": [],
