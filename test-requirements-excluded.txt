@@ -1,5 +1,3 @@
-git+https://github.com/grap/grap-odoo-incubator@12.0#subdirectory=setup/purchase_package_qty
-git+https://github.com/grap/grap-odoo-incubator@12.0#subdirectory=setup/mobile_kiosk_abstract
 git+https://github.com/grap/grap-odoo-incubator@12.0#subdirectory=setup/pos_multicompany
 git+https://github.com/grap/grap-odoo-incubator@12.0#subdirectory=setup/product_print_category
 git+https://github.com/grap/grap-odoo-incubator@12.0#subdirectory=setup/product_simple_pricelist
