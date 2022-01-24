@@ -4,14 +4,15 @@
 
 {
     "name": "Module Test Test 42 ZZZ",
-    "version": "12.0.3.0.4",
+    "version": "12.0.3.0.5",
     "category": "Demo",
     "summary": "Module Test for ocabot 9",
     "maintainers": ["legalsylvain", "quentinDupont"],
     "author": "GRAP",
-    "website": "http://www.grap.coop",
+    "website": "https://github.com/grap/github-ocabot-test",
     "license": "AGPL-3",
     "depends": ["base", "product"],
     "data": [],
+    "demo": ["demo/account_tax.xml"],
     "installable": True,
 }
