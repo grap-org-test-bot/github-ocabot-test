@@ -1,5 +1,3 @@
-git+https://github.com/grap/odoo-addons-logistics@12.0#subdirectory=setup/joint_buying_base
-git+https://github.com/grap/odoo-addons-logistics@12.0#subdirectory=setup/joint_buying_product
 
 git+https://github.com/grap/odoo-addons-intercompany-trade@12.0#subdirectory=setup/intercompany_trade_base
 git+https://github.com/grap/odoo-addons-intercompany-trade@12.0#subdirectory=setup/intercompany_trade_product
