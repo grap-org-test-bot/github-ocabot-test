@@ -4,7 +4,7 @@
 
 {
     "name": "Module Test 2 COINCOIN",
-    "version": "12.0.4.0.0",
+    "version": "12.0.4.0.1",
     "category": "Demo",
     "summary": "Module Test for ocabot",
     "author": "GRAP",
