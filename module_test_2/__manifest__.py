@@ -4,7 +4,7 @@
 
 {
     "name": "Module Test 2",
-    "version": "12.0.3.0.6",
+    "version": "12.0.4.0.0",
     "category": "Demo",
     "summary": "Module Test for ocabot",
     "author": "GRAP",
