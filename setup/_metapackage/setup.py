@@ -9,9 +9,11 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo12-addon-module_test',
+        'odoo12-addon-module_test_2',
     ],
     classifiers=[
         'Programming Language :: Python',
         'Framework :: Odoo',
+        'Framework :: Odoo :: 12.0',
     ]
 )
