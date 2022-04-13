@@ -14,7 +14,7 @@ Module Test Test 42 ZZZ
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-grap%2Fgithub--ocabot--test-lightgray.png?logo=github
-    :target: https://github.com/grap/github-ocabot-test/tree/12.0/module_test
+    :target: https://github.com/grap/github-ocabot-test/tree/10.0/module_test
     :alt: grap/github-ocabot-test
 
 |badge1| |badge2| |badge3| 
@@ -38,7 +38,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/grap/github-ocabot-test/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/grap/github-ocabot-test/issues/new?body=module:%20module_test%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/grap/github-ocabot-test/issues/new?body=module:%20module_test%0Aversion:%2010.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -76,6 +76,6 @@ Current maintainers:
 
 |maintainer-legalsylvain| |maintainer-quentinDupont| 
 
-This module is part of the `grap/github-ocabot-test <https://github.com/grap/github-ocabot-test/tree/12.0/module_test>`_ project on GitHub.
+This module is part of the `grap/github-ocabot-test <https://github.com/grap/github-ocabot-test/tree/10.0/module_test>`_ project on GitHub.
 
 You are welcome to contribute.
