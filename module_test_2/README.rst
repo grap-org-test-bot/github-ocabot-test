@@ -65,6 +65,14 @@ The development of this module has been financially supported by:
 Maintainers
 ~~~~~~~~~~~
 
+.. |maintainer-legalsylvain| image:: https://github.com/legalsylvain.png?size=40px
+    :target: https://github.com/legalsylvain
+    :alt: legalsylvain
+
+Current maintainer:
+
+|maintainer-legalsylvain| 
+
 This module is part of the `grap/github-ocabot-test <https://github.com/grap/github-ocabot-test/tree/10.0/module_test_2>`_ project on GitHub.
 
 You are welcome to contribute.
