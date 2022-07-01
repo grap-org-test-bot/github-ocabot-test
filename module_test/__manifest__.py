@@ -11,7 +11,7 @@
     "author": "GRAP",
     "website": "https://github.com/grap/github-ocabot-test",
     "license": "AGPL-3",
-    "depends": ["base", "product"],
+    "depends": ["base", "product", "sale"],
     "data": [],
     "demo": ["demo/account_tax.xml"],
     "installable": True,
