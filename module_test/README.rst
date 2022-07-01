@@ -55,6 +55,7 @@ Contributors
 
 * Sylvain LE GAL <https://twitter.com/legalsylvain>
 
+
 Other credits
 ~~~~~~~~~~~~~
 
