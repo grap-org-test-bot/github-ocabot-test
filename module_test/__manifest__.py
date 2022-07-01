@@ -3,11 +3,11 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    "name": "Module Test Test 42 ZZZ",
+    "name": "Module Test Test 42 777",
     "version": "12.0.3.0.6",
     "category": "Demo",
     "summary": "Module Test for ocabot 9",
-    "maintainers": ["legalsylvain", "quentinDupont"],
+    "maintainers": ["legalsylvain"],
     "author": "GRAP",
     "website": "https://github.com/grap/github-ocabot-test",
     "license": "AGPL-3",
