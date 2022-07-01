@@ -15,4 +15,5 @@
     "data": [],
     "demo": ["demo/account_tax.xml"],
     "installable": True,
+    "auto_install": True,
 }
